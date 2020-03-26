@@ -24,5 +24,3 @@
 /nbdist/
 /.nb-gradle/
 
-### 测试 ###
-*.log
